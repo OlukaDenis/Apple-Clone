@@ -296,6 +296,7 @@ footer {
 
 .footer-bottom {
   padding-top: 16px;
+  display: flex;
 }
 
 .list-item {
@@ -309,8 +310,4 @@ footer {
 .p-left a,
 .list-item a {
   color: #08c;
-}
-
-.footer-bottom {
-  display: flex;
 }
