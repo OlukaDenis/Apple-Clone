@@ -197,9 +197,14 @@ a:hover {
   cursor: pointer;
 }
 
-.nav-item span {
+.nav-item button {
   position: relative;
   top: 8px;
+  background: transparent;
+  border: none;
+  color: white;
+  cursor: pointer;
+  font-size: 14px;
 }
 
 .nav-item svg {
@@ -275,6 +280,11 @@ a:hover {
   min-height: 175px;
   min-width: 980px;
   margin: 0 auto;
+}
+
+.aside-item,
+.aside-item img {
+  width: 100%;
 }
 
 footer {
