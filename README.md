@@ -12,7 +12,7 @@ Read more about the project detailed description from the [Odin website](https:/
 
 ### [Assingment Link](https://www.theodinproject.com/courses/html5-and-css3/lessons/building-with-backgrounds-and-gradients)
 
-### [Live link]()
+### [Live link](https://rawcdn.githack.com/OlukaDenis/Apple-Clone/7a7571132095327aa4dbabc3d09474b5dd551e05/index.html)
 
 # Languages Used
 
