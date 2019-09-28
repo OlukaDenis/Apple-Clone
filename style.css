@@ -132,14 +132,8 @@ html {
 
 body {
   line-height: 1;
-  font-family:
-    "Lucida Grande",
-    "Lucida Sans Unicode",
-    "Lucida Sans",
-    "Lucida Sans Regular",
-    Geneva,
-    Verdana,
-    sans-serif;
+  font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans",
+    "Lucida Sans Regular", Geneva, Verdana, sans-serif;
 }
 
 a {
@@ -163,15 +157,14 @@ a:hover {
 }
 
 .navbar {
-  background:
-    linear-gradient(
-      to bottom,
-      rgb(134, 134, 134) 5%,
-      rgb(128, 128, 128) 50%,
-      rgb(107, 107, 107) 51%,
-      rgb(99, 99, 99) 8%,
-      rgb(121, 121, 121) 94%
-    );
+  background: linear-gradient(
+    to bottom,
+    rgb(134, 134, 134) 5%,
+    rgb(128, 128, 128) 50%,
+    rgb(107, 107, 107) 51%,
+    rgb(99, 99, 99) 8%,
+    rgb(121, 121, 121) 94%
+  );
   width: 980px;
   height: 35px;
   position: absolute;
@@ -276,6 +269,11 @@ a:hover {
   position: relative;
 }
 
+.aside-item,
+.aside-item img {
+  width: 100%;
+}
+
 .sub-title-2 img:hover {
   position: relative;
   top: -32px;
@@ -287,11 +285,6 @@ a:hover {
   min-height: 175px;
   min-width: 980px;
   margin: 0 auto;
-}
-
-.aside-item,
-.aside-item img {
-  width: 100%;
 }
 
 footer {
